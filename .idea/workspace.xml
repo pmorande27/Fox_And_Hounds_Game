@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7a45399b-91c0-4a0e-bfcc-a60582b90067" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1X5K0ts5Y4l6kcZvZCWc2hYbQ16" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../BinaryToDecimal" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Pablo Morandé\Desktop\inf1b-cw1\src" />
+      <recent name="C:\Users\Pablo Morandé\Desktop\inf1b-cw1\src\com\company" />
+      <recent name="C:\Users\Pablo Morandé\Desktop\inf1b-cw1\templates" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.FoxHoundIOAdvancedTest">
+    <configuration name="FoxHoundIOAdvancedTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="inf1b-cw1" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="FoxHoundIOAdvancedTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FoxHoundUIAdvancedTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="inf1b-cw1" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="FoxHoundUIAdvancedTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FoxHoundUIAdvancedTest.testDisplayBoardLeadingZero" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="inf1b-cw1" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="FoxHoundUIAdvancedTest" />
+      <option name="METHOD_NAME" value="testDisplayBoardLeadingZero" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FoxHoundUIBasicTest" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="inf1b-cw1" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="FoxHoundUIBasicTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FoxHoundUtilsAdvancedTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="inf1b-cw1" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="FoxHoundUtilsAdvancedTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FoxHoundUtilsAdvancedTest.testIsFoxWinPositiveNonDefaultDim" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="inf1b-cw1" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="FoxHoundUtilsAdvancedTest" />
+      <option name="METHOD_NAME" value="testIsFoxWinPositiveNonDefaultDim" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.FoxHoundIOAdvancedTest" />
+      <item itemvalue="JUnit.FoxHoundUIAdvancedTest" />
+      <item itemvalue="JUnit.FoxHoundUIAdvancedTest.testDisplayBoardLeadingZero" />
+      <item itemvalue="JUnit.FoxHoundUIBasicTest" />
+      <item itemvalue="JUnit.FoxHoundUtilsAdvancedTest" />
+      <item itemvalue="JUnit.FoxHoundUtilsAdvancedTest.testIsFoxWinPositiveNonDefaultDim" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.FoxHoundIOAdvancedTest" />
+        <item itemvalue="JUnit.FoxHoundUIAdvancedTest" />
+        <item itemvalue="JUnit.FoxHoundUtilsAdvancedTest" />
+        <item itemvalue="JUnit.FoxHoundUtilsAdvancedTest.testIsFoxWinPositiveNonDefaultDim" />
+        <item itemvalue="JUnit.FoxHoundUIAdvancedTest.testDisplayBoardLeadingZero" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7a45399b-91c0-4a0e-bfcc-a60582b90067" name="Default Changelist" comment="" />
+      <created>1580330295233</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580330295233</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="62" y="0" width="1736" height="1047" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1582199018787">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="62" y="0" width="1736" height="1047" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1582199018787" />
+    <state x="756" y="406" width="408" height="237" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1580330427226">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="756" y="406" width="408" height="237" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040@0.0.1920.1040" timestamp="1580330427226" />
+    <state x="718" y="268" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1581764702284">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="718" y="268" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1040@0.0.1920.1040" timestamp="1581764702284" />
+    <state width="405" height="466" key="DebuggerActiveHint" timestamp="1580599250525">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="405" height="466" key="DebuggerActiveHint/0.0.1920.1040@0.0.1920.1040" timestamp="1580599250525" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1583270572112">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1583270572112" />
+    <state width="1877" height="879" key="GridCell.Tab.0.bottom" timestamp="1582546605800">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="879" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1582546605800" />
+    <state width="1877" height="879" key="GridCell.Tab.0.center" timestamp="1582546605800">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="879" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1582546605800" />
+    <state width="1877" height="879" key="GridCell.Tab.0.left" timestamp="1582546605800">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="879" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1582546605800" />
+    <state width="1877" height="879" key="GridCell.Tab.0.right" timestamp="1582546605800">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="879" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1582546605800" />
+    <state width="1877" height="542" key="GridCell.Tab.1.bottom" timestamp="1582199351928">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="542" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1582199351928" />
+    <state width="1877" height="542" key="GridCell.Tab.1.center" timestamp="1582199351928">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="542" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1582199351928" />
+    <state width="1877" height="542" key="GridCell.Tab.1.left" timestamp="1582199351928">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="542" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1582199351928" />
+    <state width="1877" height="542" key="GridCell.Tab.1.right" timestamp="1582199351928">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="542" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1582199351928" />
+    <state x="625" y="220" key="NewModule_or_Project.wizard" timestamp="1583270577206">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="625" y="220" key="NewModule_or_Project.wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1583270577206" />
+    <state width="968" height="528" key="XDebugger.FullValuePopup" timestamp="1580599250513">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="968" height="528" key="XDebugger.FullValuePopup/0.0.1920.1040@0.0.1920.1040" timestamp="1580599250513" />
+    <state x="656" y="345" width="607" height="349" key="com.intellij.ide.util.TipDialog" timestamp="1583270458601">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="656" y="345" width="607" height="349" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1583270458601" />
+    <state x="664" y="414" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1580386546948">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="664" y="414" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1920.1040@0.0.1920.1040" timestamp="1580386546948" />
+    <state x="342" y="141" key="new project wizard" timestamp="1583270334774">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="342" y="141" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1583270334774" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1581088506440">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1581088506440" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/FoxHoundIOBasicTest.java</url>
+          <line>128</line>
+          <properties class="FoxHoundIOBasicTest" method="testSaveGameValidInput">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/FoxHoundUIBasicTest.java</url>
+          <line>116</line>
+          <properties class="FoxHoundUIBasicTest" method="testDisplayBoard">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/FoxHoundIOBasicTest.java</url>
+          <line>39</line>
+          <properties class="FoxHoundIOBasicTest" method="testLoadGameValidInput">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
